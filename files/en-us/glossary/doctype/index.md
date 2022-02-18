@@ -1,4 +1,4 @@
----
+-<!DOCTYPE html>--
 title: Doctype
 slug: Glossary/Doctype
 tags:
